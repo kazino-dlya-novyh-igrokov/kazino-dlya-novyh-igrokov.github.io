@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-dlya-novyh-igrokov.github.io
+Sitemap: https://kazino-dlya-novyh-igrokov.github.io/sitemap.xml
